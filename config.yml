@@ -1,0 +1,5 @@
+# Natural Disasters
+config:
+  tornado: 90
+  earthquake: 50
+  tsunami: 50

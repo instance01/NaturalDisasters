@@ -1,0 +1,11 @@
+name: NaturalDisasters
+main: com.comze_instancelabs.natural_disasters.Main
+version: 1.0
+author: instancelabs
+commands:
+   dis:
+      description: Main command
+      usage: /dis [name]
+   disaster:
+      description: Main command
+      usage: /disaster [name]
